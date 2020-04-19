@@ -1,0 +1,27 @@
+/**
+ * IDSA Long Project 4
+ * Group members:
+ * Adarsh Raghupati   axh190002
+ * Akash Akki         apa190001
+ * Keerti Keerti      kxk190012
+ * Stewart cannon     sjc160330
+ */
+
+####Implementation of Multi Dimensional Search
+
+###### Steps to run the code in IntelliJ IDE
+* Create an empty java project
+* Unzip the source code files and paste it under the location "Java Project Name"/src folder
+
+
+###### Steps to run the tests
+
+Run LP4Driver.java with the test file as program argument
+
+###### Sample test runs:
+Run LP4Driver.java with test-lp4\401.txt as input
+Output:
+
+1448
+Time: 14 msec.
+Memory: 3 MB / 121 MB.
